@@ -1,7 +1,10 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on Golang & Reactjs
-- 🌱 I’m currently learning Reactjs
+- 🌱 I’m currently learning everything i can find
+- ⚡ Fun fact: Partime Dairy Farmer
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/jesse-songok-3524a060/), [Twitter](https://twitter.com/wezeshafrica)
+
 
 <!--
 **songokjesse/songokjesse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
