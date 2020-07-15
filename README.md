@@ -5,6 +5,12 @@
 - ⚡ Fun fact: Partime Dairy Farmer
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/jesse-songok-3524a060/), [Twitter](https://twitter.com/wezeshafrica)
 
+### Tech Stack
+
+* :computer: PHP, Javascript, Python, Golang
+* :package: Laravel, Flask, Django, Nodejs:(Expressjs, Fastify, Koa), Vue.js
+* :floppy_disk: PostgreSql, Mysql, MongoDB, Google_firestore
+* :cloud: AWS, Heroku, GCP, Netlfy 
 
 <!--
 **songokjesse/songokjesse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
