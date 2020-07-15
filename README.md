@@ -1,12 +1,16 @@
-### Hi there 👋
+### Hi there 👋 
+---
+Hello, I'am Jesse, a full stack developer. I do like experimenting with new technologies, building small projects to solve my everyday problems, and occassionaly mentor kids interested in Tech
 
+### Currently Keeping myself busy with
+---
 - 🔭 I’m currently working on Golang & Reactjs
 - 🌱 I’m currently learning everything i can find
 - ⚡ Fun fact: Partime Dairy Farmer
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/jesse-songok-3524a060/), [Twitter](https://twitter.com/wezeshafrica)
 
-### Tech Stack
-
+### Tech Stack 
+---
 * :computer: PHP, Javascript, Python, Golang
 * :package: Laravel, Flask, Django, Nodejs:(Expressjs, Fastify, Koa), Vue.js
 * :floppy_disk: PostgreSql, Mysql, MongoDB, Google_firestore
