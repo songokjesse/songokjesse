@@ -6,6 +6,7 @@ Hello, I'am Jesse, a full stack developer. I do like experimenting with new tech
 ---
 - 🔭 I’m currently working on Golang & Reactjs
 - 🌱 I’m currently learning everything i can find
+- 👯 I’m looking to collaborate on any fan Project
 - ⚡ Fun fact: Partime Dairy Farmer
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/jesse-songok-3524a060/), [Twitter](https://twitter.com/wezeshafrica)
 
@@ -23,7 +24,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Golang & Reactjs
 - 🌱 I’m currently learning Reactjs
-- 👯 I’m looking to collaborate on ...
+
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
