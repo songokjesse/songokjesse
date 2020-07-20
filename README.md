@@ -1,6 +1,6 @@
 ### Hi there 👋 
 ---
-Hello, I'am Jesse, a full stack developer. I do like experimenting with new technologies, building small projects to solve my everyday problems, and occassionaly mentor kids interested in Tech
+Hello, I'am Jesse, a full stack developer. I do like experimenting with new technologies, building small projects to solve my everyday problems, and occassionaly mentor kids interested in Tech within my local community
 
 ### Currently Keeping myself busy with
 ---
