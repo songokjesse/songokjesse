@@ -4,7 +4,7 @@ Hello, I'am Jesse, a full stack developer. I do like experimenting with new tech
 
 ### Currently Keeping myself busy with
 ---
-- 🔭 I’m currently working on Golang & Reactjs
+- 🔭 I’m currently working on Python & Pandas Project
 - 🌱 I’m currently learning everything i can find
 - 👯 I’m looking to collaborate on any fan Project
 - ⚡ Fun fact: Partime Dairy Farmer
