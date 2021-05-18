@@ -6,7 +6,7 @@ Hello, I'am Jesse, a full stack developer. I do like experimenting with new tech
 ---
 - 🔭 I’m currently working on nextjs and prisma.io Project
 - 🌱 I’m currently learning everything i can find
-- 👯 I’m looking to collaborate on any fan Project
+- 👯 I’m looking to collaborate on any fun Project
 - ⚡ Fun fact: Partime Dairy Farmer
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/jesse-songok-3524a060/), [Twitter](https://twitter.com/wezeshafrica)
 
